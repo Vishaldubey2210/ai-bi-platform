@@ -6,3 +6,5 @@ PyPDF2
 pyrebase4
 openai
 python-dotenv
+setuptools
+gcloud
